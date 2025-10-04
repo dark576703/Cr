@@ -1,6 +1,6 @@
 {
   "name": "fca-nazrul",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Facebook-chat-api made by Smart Shankar",
   "main": "index.js",
   "scripts": {
